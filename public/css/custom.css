@@ -1,0 +1,49 @@
+.parent_cat,
+.prodct_cat {
+    width: 75%;
+    float: left;
+    background: yellow;
+}
+
+.sale_td_input_cs {
+    height: 44px;
+    border-radius: 0;
+    text-align: center;
+}
+
+.td_no_padding {
+    padding: 0 !important;
+    vertical-align: middle;
+}
+
+.product_img {
+    width: 200px;
+    height: 300px;
+}
+
+.add_sale_to_db,
+.add_return_to_db {
+    width: 100%;
+}
+.given_waight,.return_waight,.maker_quantity{
+    padding-left: 0;
+    padding-right: 0;
+    width: 50px;
+}
+.sample_img{
+    width:85px !important;
+}
+.delete_maker_item_raw{
+    cursor: pointer;
+}
+.sample_img{
+    overflow: hidden;
+}
+.img_maker_item{
+    width: 170px;
+    float: left;
+    margin-right: 15px;
+}
+.maker_item_printable_area p{
+    margin-bottom: 5px!important;
+}
